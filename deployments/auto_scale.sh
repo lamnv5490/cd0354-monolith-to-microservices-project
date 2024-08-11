@@ -1,0 +1,1 @@
+kubectl autoscale deployment backend-user --cpu-percent=70 --min=3 --max=5

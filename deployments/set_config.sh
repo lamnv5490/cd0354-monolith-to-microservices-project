@@ -1,0 +1,1 @@
+aws eks --region us-east-1 update-kubeconfig --name my-project-3-eks
